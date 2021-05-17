@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Pavel Nikitenko](https://up.htmlacademy.ru/htmlcss/31/user/1756391).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Железцов]{https://htmlacademy.ru/profile/sench}.
 
 ---
 
